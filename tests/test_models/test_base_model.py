@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" """
+"""basemodel  """
 from models.base_model import BaseModel
 import unittest
 import datetime
@@ -7,6 +7,7 @@ from uuid import UUID
 import json
 import os
 import pycodestyle
+import BaseModel
 
 
 class test_basemodel(unittest.TestCase):
