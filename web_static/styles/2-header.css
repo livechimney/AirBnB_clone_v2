@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "UTF-8";
 /** Holberton Practice Styles
  * ------ Header
@@ -7,4 +8,16 @@ header {
 	background-color: #FF0000;
 	height: 70px;
 	width: 100%;
+=======
+header {
+<<<<<<< HEAD
+    width: 100%;
+    background-color: #FF0000;
+    height: 70px;
+=======
+	background-color:#FF0000;
+	height:70px;
+	width:100%;
+>>>>>>> 43a24faa69bbd151b8fec987ee56df7de02c39b7
+>>>>>>> 2f0813143d9d93724458ff791ae5501a83b7fc94
 }
